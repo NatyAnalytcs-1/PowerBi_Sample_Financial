@@ -58,6 +58,7 @@ O gráfico de pizza "Total Lucro por Segmento" e o gráfico de treemap abaixo mo
 <div align="center">
   <img src="png/image3.PNG" alt="c" height="400">
 </div> 
+
 ## Conclusão
 
 O dashboard fornece uma visão abrangente do desempenho financeiro, destacando a importância de produtos como Carretera, Montana e VTT, e a forte contribuição dos segmentos GOVERNMENT e SMALL BUSINESS para o lucro. Geograficamente, os Estados Unidos e a França são mercados chave tanto em vendas quanto em lucro.

@@ -27,13 +27,13 @@ Demonstrar como utilizar **botões de navegação e indicadores (bookmarks)** pa
 ## 🧩 Estrutura Visual
 
 ### Painel 1 – Gráficos
-![Painel Gráfico](./modulo2.1.PNG)
+![Painel Gráfico](./png2/modulo2.1.PNG)
 
 ### Painel 1.2 – Relatório
-![Painel Relatório](./modulo2.1.1.PNG)
+![Painel Relatório](./png2/modulo2.1.1.PNG)
 
 ### Painel 3 – Lucro e Tendências
-![Painel Relatório](./modulo2.2.PNG)
+![Painel Relatório](./png2/modulo2.2.PNG)
 
 ---
 
